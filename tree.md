@@ -8,7 +8,8 @@ multiomics-vae/
 │
 ├── src/
 │   ├── data_download.py
-│   ├── preprocessing.py
+│   ├── preprocessing.py 
+│   ├── prepare_training_data.py
 │   └── train_vae.py
 │
 ├── environment.yml
